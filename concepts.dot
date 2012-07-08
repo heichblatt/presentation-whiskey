@@ -1,0 +1,9 @@
+digraph G {
+ rankdir=LR;
+ fontsize=8;
+ node [shape = doublecircle] stereotypes;
+ node [shape = circle];
+ advertisement -> product [label = "enrich product\n with narrative,\n create image"];
+ stereotypes -> advertisement[label = "use as shortcut,\n tap into meaning", dir = both];
+ country -> stereotypes[dir=both];
+}
