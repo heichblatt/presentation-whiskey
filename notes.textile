@@ -15,7 +15,7 @@ h2. History
 * first written record in Scotland: 1494: king orders 500 bottles
 * after Henry VIII dissolved monasteries, production was secularized, now produced on farms
 * Old Bushmill's Distillery holds license from 1609, oldest distillery in the world
-* during prohibition only allowed when prescribed from doctor and bought from licensed pharmacy -> pharmacy chain Walgreens grew from 20 to 400 retail stores
+* during prohibition only allowed when prescribed from doctor and bought from licensed pharmacy -> pharmacy chain Walgreens
 
 h2. Production
 
@@ -45,9 +45,37 @@ h2. Relevance in Cultural Studies
 
 * Quote: Roland Barthes
 * why is this relevant?
-* Functions of stereotyping:
-** efficient sense-making #TODO
-** 
+* cognitive and social functions of stereotyping, here concentrate on cognitive
+
+* Cognitive Functions of stereotyping (McGarty et al.):
+** efficient sense-making
+*** stereotypes = categories of objects or people
+*** inside stereotypes high similarity
+*** between stereotypes very low/no similarity
+** reduce complexity
+*** stereotypes make it easier to understand the world: divide into parts
+*** most research about st comes from sociology
+**** st's used to understand one's own social group, "people's biased perceptions of their social contexts" (McGarty et al.)
+*** accuracy dependent on subject:
+**** higher for gender and ethnic groups
+**** very low for political and national groups
+** apply knowledge from past encounters to new ones
+** shared collective group beliefs
+*** st's are commonplace, but vary dramatically
+
+* problems:
+** after categorization, new information tends to be overlooked -> st's become less reliable/accurate over time
+** oversimplification
+** self-fulfilling prophecies
+
+h2. Role in Advertisement
+
+* why are they used (Warlop)
+** ads have little time
+** quick access to complex images, "simple ways to say something that everybody understands"
+** can facilitate communication (shared understanding of the meaning of the communication)
+** while neither of us has to believe that the stereotype is true
+** we DO share the illusion that the stereotypes in such ads might affect other peoples perception of reality.   
 
 h1. Video Examples
 
