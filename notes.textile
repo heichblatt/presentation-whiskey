@@ -47,7 +47,11 @@ h2. Relevance in Cultural Studies
 * why is this relevant?
 * cognitive and social functions of stereotyping, here concentrate on cognitive
 
-* Cognitive Functions of stereotyping (McGarty et al.):
+* social functions of stereotyping
+** ingroup vs outgroup
+** making sense of own social context
+
+* cognitive functions of stereotyping (McGarty et al.):
 ** efficient sense-making
 *** stereotypes = categories of objects or people
 *** inside stereotypes high similarity
@@ -65,17 +69,17 @@ h2. Relevance in Cultural Studies
 
 * problems:
 ** after categorization, new information tends to be overlooked -> st's become less reliable/accurate over time
-** oversimplification
+** oversimplification: overestimating similarity inside the stereotyped group
 ** self-fulfilling prophecies
 
 h2. Role in Advertisement
 
 * why are they used (Warlop)
-** ads have little time
+** ads have little time, very restrictive/narrow time frame
 ** quick access to complex images, "simple ways to say something that everybody understands"
 ** can facilitate communication (shared understanding of the meaning of the communication)
 ** while neither of us has to believe that the stereotype is true
-** we DO share the illusion that the stereotypes in such ads might affect other peoples perception of reality.   
+** we DO share the illusion that the stereotypes in such ads might affect other peoples perception of reality (shared collective group beliefs!)   
 
 h1. Video Examples
 
