@@ -1,6 +1,13 @@
 h1. Hi.
 
+* talked a lot about people's views about other people
+* tried to find patterns in memory and culture
+* also a bit about stereotypes
 
+* stereotypes interesting because:
+** why do we use them?
+** how do we use them?
+-> specific example, my topic: National Stereotypes in Whiskey Advertisement
 
 h1. Whiskey in and of itself
 
@@ -39,7 +46,7 @@ h1. Stereotypes
 
 h2. Definition
 
-* Quote (Websters): something conforming to a fixed or general pattern; especially : an often oversimplified or biased mental picture held to characterize the typical individual of a group
+* Quote (Websters): something conforming to a fixed or general pattern; especially: an often oversimplified or biased mental picture held to characterize the typical individual of a group
 
 h2. Relevance in Cultural Studies
 
@@ -47,8 +54,10 @@ h2. Relevance in Cultural Studies
 * why is this relevant?
 * cognitive and social functions of stereotyping, here concentrate on cognitive
 
+* most research about st comes from sociology
 * social functions of stereotyping
-** ingroup vs outgroup
+** st's used to understand one's own social group, "people's biased perceptions of their social contexts" (McGarty et al.)
+** ingroup vs outgroup, definition, distinction, boundary
 ** making sense of own social context
 
 * cognitive functions of stereotyping (McGarty et al.):
@@ -58,14 +67,12 @@ h2. Relevance in Cultural Studies
 *** between stereotypes very low/no similarity
 ** reduce complexity
 *** stereotypes make it easier to understand the world: divide into parts
-*** most research about st comes from sociology
-**** st's used to understand one's own social group, "people's biased perceptions of their social contexts" (McGarty et al.)
 *** accuracy dependent on subject:
 **** higher for gender and ethnic groups
 **** very low for political and national groups
 ** apply knowledge from past encounters to new ones
 ** shared collective group beliefs
-*** st's are commonplace, but vary dramatically
+*** st's are commonplace, but may vary dramatically
 
 * problems:
 ** after categorization, new information tends to be overlooked -> st's become less reliable/accurate over time
@@ -78,16 +85,15 @@ h2. Role in Advertisement
 ** ads have little time, very restrictive/narrow time frame
 ** quick access to complex images, "simple ways to say something that everybody understands"
 ** can facilitate communication (shared understanding of the meaning of the communication)
+*** efficient sense-making!
 ** while neither of us has to believe that the stereotype is true
-** we DO share the illusion that the stereotypes in such ads might affect other peoples perception of reality (shared collective group beliefs!)   
+*** that's not the point of a stereotype!
+** we DO share the illusion that the stereotypes in such ads might affect other peoples perception of reality
+*** shared collective group beliefs!
 
 h1. Video Examples
 
-h2. Ireland
-
-h2. Scotland
-
-h2. USA
+-> extra sheet
 
 h2. Common characteristics of ads from one country
 
