@@ -1,20 +1,49 @@
+h1. Hi.
+
+
+
 h1. Whiskey in and of itself
 
 h2. History
 
+* distillation known since 2nd millenium BC, but not alcohol
+* earliest distillation of alcohol in 13th century Italy, from wine
+* used as medicine in monasteries, against pain
+* use spread from Ireland to Scotland in medieval times
+* barley instead of grapes because islands lacked grapes
+* first written record of Whiskey in 1405: chieftain dead after Christmas meal
+* first written record in Scotland: 1494: king orders 500 bottles
+* after Henry VIII dissolved monasteries, production was secularized, now produced on farms
+* Old Bushmill's Distillery holds license from 1609, oldest distillery in the world
+* during prohibition only allowed when prescribed from doctor and bought from licensed pharmacy -> pharmacy chain Walgreens grew from 20 to 400 retail stores
+
 h2. Production
 
+* "a type of distilled alcoholic beverage made from fermented grain mash"
+* different grains are used
+* aged in wooden casks
+* classified by ingredients used:
+** malt whiskey from malted barley (Gerste)
+** grain whiskey
+* blending and combination leads to different variations: single malt, blended malt, blended, single cask
+
 h2. Etymology
+
+* anglification of Gaelic uisge ("water"), uisce beatha "lively water"
+* translated from Roman \emph{aqua vitae}
+* Whis*key* in USA, Ireland
+* Whis*ky* everywhere else
+* Scotch = "Scottish whisky", in Scotland: whisky
 
 h1. Stereotypes
 
 h2. Definition
 
-* Quote: Roland Barthes
-* something conforming to a fixed or general pattern; especially : an often oversimplified or biased mental picture held to characterize the typical individual of a group
+* Quote (Websters): something conforming to a fixed or general pattern; especially : an often oversimplified or biased mental picture held to characterize the typical individual of a group
 
 h2. Relevance in Cultural Studies
 
+* Quote: Roland Barthes
 * why is this relevant?
 * Functions of stereotyping:
 ** efficient sense-making #TODO
